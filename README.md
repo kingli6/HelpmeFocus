@@ -22,7 +22,7 @@ The Focus popup is not the general Firefox Extensions menu:
 
 If the popup is empty or shows only a thin white line, remove the temporary add-on from `about:debugging`, load `firefox-extension/manifest.json` again, and click the Focus Browser Guard icon—not the puzzle-piece menu.
 
-## Install in Chrome
+## Install in Chrome (Warning: I have not tested this. let me know if it doesn't work...)
 
 1. Download or clone this repository.
 2. Open: `chrome://extensions`
